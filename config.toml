@@ -1,0 +1,62 @@
+baseURL = "https://knid.me"
+
+theme = 'hugo-bearblog'
+
+title = "Knid's Website"
+author = "Sinan Kanidagli"
+copyright = "Copyright © 2024, Sinan Kanidagli"
+languageCode = "en-US"
+
+enableRobotsTXT = true
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+
+[params]
+  description = "Physics student, software developer, open source lover, bug hunter and writer (trying to be). I developed mobile games with unity, mobile apps with dart/flutter, web and cli apps with python, APIs in Django/DRF. Now i am trying to improve my self on math, physics and backend programming. Currently i’m using golang for backend apps. I’m also interested in embedded and low-level programming."
+
+  # favicon = "images/favicon.png"
+  # images = ["images/share.png"]
+  profilePictureURL = "pp.jpeg"
+  title = "Knid's Website"
+  hideMadeWithLine = true
+  math = true
+
+[markup]
+  [markup.highlight]
+    style = 'nord'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+
+[menus]
+[[menus.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 1
+[[menus.main]]
+  name = 'Projects'
+  pageRef = '/projects'
+  weight = 2
+[[menus.main]]
+  name = 'Public Services'
+  pageRef = '/public-services'
+  weight = 3
+[[menus.main]]
+  name = 'Blog'
+  pageRef = '/blog'
+  weight = 4
+[[menus.main]]
+  name = 'PGP'
+  pageRef = '/pgp'
+  weight = 5

@@ -21,7 +21,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
   # favicon = "images/favicon.png"
   # images = ["images/share.png"]
-  profilePictureURL = "pp.jpeg"
+  profilePicture = "pp.jpeg"
   title = "Knid's Website"
   hideMadeWithLine = true
   math = true

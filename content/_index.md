@@ -21,6 +21,8 @@ Don't forget to check my [Github Profile](https://github.com/knid)
 
 via email: sinan@knid.me
 
+via xmpp: [sinan@xmpp.knid.me](xmpp://sinan@xmpp.knid.me)
+
 # Social Accounts
 
 https://linkedin.com/in/sinankanidagli

@@ -19,12 +19,16 @@ Don't forget to check my [Github Profile](https://github.com/knid)
 
 # Contact
 
-via email: sinan@knid.me
+email: contact@knid.me
 
-via xmpp: [sinan@xmpp.knid.me](xmpp://sinan@xmpp.knid.me)
+xmpp: [sinan@xmpp.knid.me](xmpp://sinan@xmpp.knid.me)
+
+
 
 # Social Accounts
 
 https://linkedin.com/in/sinankanidagli
 
-https://memos.knid.me
+https://memos.knid.me/u/knid
+
+https://x.com/knidme

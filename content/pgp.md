@@ -7,6 +7,12 @@ menu = "main"
 
 [Click to download](/pgp.txt)
 
+Fingerprint:
+
+```bash
+935D6B37B38024C924620EB345266F92B70F6D6A
+```
+
 ```bash
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 

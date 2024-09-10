@@ -21,8 +21,7 @@ Don't forget to check my [Github Profile](https://github.com/knid)
 
 email: contact@knid.me
 
-xmpp: [sinan@xmpp.knid.me](xmpp://sinan@xmpp.knid.me)
-
+matrix: [@knid:matrix.knid.me](https://matrix.to/#/@knid:matrix.knid.me)
 
 
 # Social Accounts

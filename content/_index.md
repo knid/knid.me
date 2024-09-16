@@ -19,7 +19,7 @@ Don't forget to check my [Github Profile](https://github.com/knid)
 
 # Contact
 
-email: contact@knid.me
+email: sinan@knid.me
 
 matrix: [@knid:matrix.knid.me](https://matrix.to/#/@knid:matrix.knid.me)
 

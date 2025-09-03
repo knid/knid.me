@@ -4,7 +4,7 @@ theme = 'hugo-bearblog'
 
 title = "Knid's Website"
 author = "Sinan Kanidagli"
-copyright = "Copyright © 2024, Sinan Kanidagli"
+copyright = "Copyright © 2025, Sinan Kanidagli"
 languageCode = "en-US"
 
 enableRobotsTXT = true
@@ -17,11 +17,11 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [params]
-  description = "Physics student, software developer, open source lover, bug hunter and writer (trying to be). I developed mobile games with unity, mobile apps with dart/flutter, web and cli apps with python, APIs in Django/DRF. Now i am trying to improve my self on math, physics and backend programming. Currently i’m using golang for backend apps. I’m also interested in embedded and low-level programming."
+  description = "Physics student and backend developer with a passion for building systems that work — and understanding why they do. I work primarily with Go (Golang) and Python, developing robust APIs, backend services, and tools. My stack often includes PostgreSQL, Docker, and frameworks like Django/DRF. Previously, I’ve built mobile games with Unity, apps with Flutter/Dart, and various CLI and web applications. I’m also exploring embedded systems and low-level programming as hobbies. Outside of code, I’m always learning — especially in math, physics, and systems architecture. I occasionally dive into bug hunting, contribute to open source, and write about what I learn (or try to). 🛠 Check out my GitHub to see what I’m working on."
 
   # favicon = "images/favicon.png"
   # images = ["images/share.png"]
-  profilePicture = "pp.jpeg"
+  profilePicture = "pp.jpg"
   title = "Knid's Website"
   hideMadeWithLine = true
   math = true

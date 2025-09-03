@@ -7,13 +7,15 @@ title = "Home"
 
 # $> whoami
 
-Physics student, software developer, open source lover, bug hunter and writer (trying to be). I developed mobile games with unity, mobile apps with dart/flutter, web and cli apps with python, APIs in Django/DRF.
+Physics student and backend developer with a passion for building systems that work — and understanding why they do. I work primarily with Go (Golang) and Python, developing robust APIs, backend services, and tools. My stack often includes PostgreSQL, Docker, and frameworks like Django/DRF.
 
-Now i am trying to improve my self on math, physics and backend programming. Currently i'm using golang for backend apps.
+Previously, I’ve built mobile games with Unity, apps with Flutter/Dart, and various CLI and web applications. I’m also exploring embedded systems and low-level programming as hobbies.
 
-I'm also interested in embedded and low-level programming.
+Outside of code, I’m always learning — especially in math, physics, and systems architecture. I occasionally dive into bug hunting, contribute to open source, and write about what I learn (or try to).
 
-Don't forget to check my [Github Profile](https://github.com/knid)
+🛠 Check out my GitHub to see what I’m working on.
+
+[Github Profile](https://github.com/knid)
 
 \- Sinan Kanidağlı
 
@@ -23,11 +25,8 @@ email: sinan@knid.me
 
 matrix: [@knid:matrix.knid.me](https://matrix.to/#/@knid:matrix.knid.me)
 
-
 # Social Accounts
 
 https://linkedin.com/in/sinankanidagli
-
-https://memos.knid.me/u/knid
 
 https://x.com/knidme
